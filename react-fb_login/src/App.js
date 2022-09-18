@@ -22,7 +22,7 @@ const responseFacebook = (response) => {
 }
   return (
     <div class="container">
-      <Card stype={{ width: '800px' }} className="mx-auto mt-5">
+      <Card style={{ width: '800px' }} className="mx-auto mt-5">
         <Card.Header className="pb-4">
           <h1>My React App</h1>
           <Card.Body>
